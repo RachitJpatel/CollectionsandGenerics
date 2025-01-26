@@ -1,0 +1,14 @@
+C:\Users\Rachit\source\repos\A02\bin\Debug\net8.0\A02.exe
+C:\Users\Rachit\source\repos\A02\bin\Debug\net8.0\A02.deps.json
+C:\Users\Rachit\source\repos\A02\bin\Debug\net8.0\A02.runtimeconfig.json
+C:\Users\Rachit\source\repos\A02\bin\Debug\net8.0\A02.dll
+C:\Users\Rachit\source\repos\A02\bin\Debug\net8.0\A02.pdb
+C:\Users\Rachit\source\repos\A02\obj\Debug\net8.0\A02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rachit\source\repos\A02\obj\Debug\net8.0\A02.AssemblyInfoInputs.cache
+C:\Users\Rachit\source\repos\A02\obj\Debug\net8.0\A02.AssemblyInfo.cs
+C:\Users\Rachit\source\repos\A02\obj\Debug\net8.0\A02.csproj.CoreCompileInputs.cache
+C:\Users\Rachit\source\repos\A02\obj\Debug\net8.0\A02.dll
+C:\Users\Rachit\source\repos\A02\obj\Debug\net8.0\refint\A02.dll
+C:\Users\Rachit\source\repos\A02\obj\Debug\net8.0\A02.pdb
+C:\Users\Rachit\source\repos\A02\obj\Debug\net8.0\A02.genruntimeconfig.cache
+C:\Users\Rachit\source\repos\A02\obj\Debug\net8.0\ref\A02.dll
